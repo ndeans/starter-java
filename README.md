@@ -1,10 +1,10 @@
 # java-starter
 
-A minimal Java 21 Maven starter project. Used as the scaffold for Raven-Jobs.
+A minimal Java 17 Maven starter project. Used as the scaffold for Raven-Jobs.
 
 ## Stack
 
-- Java 21
+- Java 17
 - SLF4J + Logback (logging)
 - JUnit Jupiter 5 (testing)
 
